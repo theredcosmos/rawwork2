@@ -1,0 +1,64 @@
+body{
+        background-color:#e7f5fe;
+
+
+    }
+    .delhi{
+      border-style:none;
+      border-width: 5px;
+      box-sizing: content-box;
+      color:seagreen;
+      font-size: 20px;
+      margin: 20px 500px 0;
+      padding: 20px 100px 20px;
+      text-indent: inherit;
+    }
+    .tokyo{
+      border-style:none;
+      border-width: 5px;
+      box-sizing: content-box;
+      color:seagreen;
+      font-size: 20px;
+      margin: 20px 500px 0;
+      padding: 20px 100px 20px;
+      text-indent: inherit;
+    }
+    .jakarta{
+      border-style: none;
+
+      border-color: white;
+      color: seagreen;
+    font-size: 20px;
+      margin-left: 500px;
+      margin-right: 500px;
+      padding: 20px 100px 20px;
+      text-align: center;
+    }
+    .newclass{
+      border-style:groove;
+      background-color:powderblue;
+      color: white;
+      margin: 20px 500px 0px;
+      padding:20px ;
+    }
+    hr{
+
+        border-style:none;
+        border-top-style: dotted;
+        border-color:grey;
+        border-width: 5px;
+        width: 3%;
+
+      }
+
+        .rei{
+
+          text-align: center;
+margin: 10px 500px 50px 0;
+
+        }
+.ichi{
+  text-align: center;
+
+
+}
